@@ -1,4 +1,4 @@
-# Write your MySQL query statement below
+--  Write your MySQL query statement below
 SELECT class #,COUNT(class)
 FROM Courses
 GROUP BY class

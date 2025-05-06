@@ -1,4 +1,4 @@
-# Write your MySQL query statement below
+--  Write your MySQL query statement below
 SELECT tone.name AS Employee
 FROM Employee AS tone
 JOIN  Employee AS ttwo 
