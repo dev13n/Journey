@@ -32,6 +32,8 @@ This repository serves as a documentation of my journey in Data Structures and A
 |  18    | [619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number/description/)         | Easy       | Sorting and Grouping            | Leetcode |
 |  19    | [1661. Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/description/?envType=study-plan-v2&envId=top-sql-50)                                                                     | Easy       | Basic Joins            | Leetcode |
 |  20    | [620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/)                                                                     | Easy       | Basic Aggregate Functions            | Leetcode |
+|  21    | [1280. Students and Examinations](https://leetcode.com/problems/students-and-examinations/description/?envType=study-plan-v2&envId=top-sql-50)                                                                     | Easy       | Basic Joins            | Leetcode |
+|  22    | [627. Swap Salary](https://leetcode.com/problems/swap-salary/description/)                                                                     | Easy       | Basic Joins            | Leetcode |
 
 ---
 
@@ -50,9 +52,10 @@ This repository serves as a documentation of my journey in Data Structures and A
 |   9    | [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/description/?envType=study-plan-v2&envId=top-sql-50)         | Easy       | Basic Joins            | Leetcode |
 |  11    | [1661. Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/description/?envType=study-plan-v2&envId=top-sql-50)                                                                     | Easy       | Basic Joins            | Leetcode |
 |  12    | [577. Employee Bonus](https://leetcode.com/problems/employee-bonus/)                                                                     | Easy       | Basic Joins            | Leetcode |
-|  13    | [620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/)                                                                     | Easy       | Basic Aggregate Functions            | Leetcode |
-|  14    | [596. Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/?envType=study-plan-v2&envId=top-sql-50)  | Easy       | Sorting and Grouping   | Leetcode |
-|  15    | [619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number/description/)         | Easy       | Sorting and Grouping            | Leetcode |
-|  16    | [610. Triangle Judgement](https://leetcode.com/problems/triangle-judgement/description/?envType=study-plan-v2&envId=top-sql-50)         | Easy       | Advanced Select and Joins | Leetcode |
+|  13    | [1280. Students and Examinations](https://leetcode.com/problems/students-and-examinations/description/?envType=study-plan-v2&envId=top-sql-50)                                                                     | Easy       | Basic Joins            | Leetcode |
+|  14    | [620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/)                                                                     | Easy       | Basic Aggregate Functions            | Leetcode |
+|  15    | [596. Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/?envType=study-plan-v2&envId=top-sql-50)  | Easy       | Sorting and Grouping   | Leetcode |
+|  16    | [619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number/description/)         | Easy       | Sorting and Grouping            | Leetcode |
+|  17    | [610. Triangle Judgement](https://leetcode.com/problems/triangle-judgement/description/?envType=study-plan-v2&envId=top-sql-50)         | Easy       | Advanced Select and Joins | Leetcode |
 
 ---
