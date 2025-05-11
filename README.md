@@ -38,6 +38,8 @@ This repository serves as a documentation of my journey in Data Structures and A
 |  24    | [1050. Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/description/)                                                                     | Easy       | Basic Joins            | Leetcode |
 |  25    | [1934. Confirmation Rate](https://leetcode.com/problems/confirmation-rate/?envType=study-plan-v2&envId=top-sql-50)                                                                     | Medium       | Basic Joins            | Leetcode |
 |  26    | [1211. Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/description/)                                                                     | Easy       | Basic Aggregate Functions            | Leetcode |
+|  27    | [1251. Average Selling Price](https://leetcode.com/problems/average-selling-price/description/?envType=study-plan-v2&envId=top-sql-50)                                                                     | Easy       | Basic Aggregate Functions            | Leetcode |
+|  28    | [1407. Top Travellers](https://leetcode.com/problems/top-travellers/description/)                                                                     | Easy       | SQL Query           | Leetcode |
 
 ---
 
@@ -60,9 +62,10 @@ This repository serves as a documentation of my journey in Data Structures and A
 |  14    | [570. Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/description/?envType=study-plan-v2&envId=top-sql-50)                                                                     | Medium       | Basic Joins            | Leetcode |
 |  15    | [1934. Confirmation Rate](https://leetcode.com/problems/confirmation-rate/?envType=study-plan-v2&envId=top-sql-50)                                                                     | Medium       | Basic Joins            | Leetcode |
 |  16    | [620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/)                                                                     | Easy       | Basic Aggregate Functions            | Leetcode |
-|  17    | [1211. Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/description/)                                                                     | Easy       | Basic Aggregate Functions            | Leetcode |
-|  18    | [596. Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/?envType=study-plan-v2&envId=top-sql-50)  | Easy       | Sorting and Grouping   | Leetcode |
-|  19    | [619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number/description/)         | Easy       | Sorting and Grouping            | Leetcode |
-|  20    | [610. Triangle Judgement](https://leetcode.com/problems/triangle-judgement/description/?envType=study-plan-v2&envId=top-sql-50)         | Easy       | Advanced Select and Joins | Leetcode |
+|  17    | [1251. Average Selling Price](https://leetcode.com/problems/average-selling-price/description/?envType=study-plan-v2&envId=top-sql-50)                                                                     | Easy       | Basic Aggregate Functions            | Leetcode |
+|  18    | [1211. Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/description/)                                                                     | Easy       | Basic Aggregate Functions            | Leetcode |
+|  19    | [596. Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/?envType=study-plan-v2&envId=top-sql-50)  | Easy       | Sorting and Grouping   | Leetcode |
+|  20    | [619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number/description/)         | Easy       | Sorting and Grouping            | Leetcode |
+|  21    | [610. Triangle Judgement](https://leetcode.com/problems/triangle-judgement/description/?envType=study-plan-v2&envId=top-sql-50)         | Easy       | Advanced Select and Joins | Leetcode |
 
 ---
