@@ -42,6 +42,8 @@ This repository serves as a documentation of my journey in Data Structures and A
 |  28    | [1407. Top Travellers](https://leetcode.com/problems/top-travellers/description/)                                                                     | Easy       | SQL Query           | Leetcode |
 |  29    | [1075. Project Employees I](https://leetcode.com/problems/project-employees-i/description/?envType=study-plan-v2&envId=top-sql-50)                                                                     | Easy       | Basic Aggregate Function           | Leetcode |
 |  30    | [1484. Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)                                                                     | Easy       | Advanced String Functions / Regex / Clause           | Leetcode |
+|  31    | [1633. Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/?envType=study-plan-v2&envId=top-sql-50)                                                                     | Easy       | Basic Aggregate Functions           | Leetcode |
+|  32    | [1587. Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/description/)                                                                     | Easy       | SQL Query           | Leetcode |
 
 ---
 
@@ -66,10 +68,11 @@ This repository serves as a documentation of my journey in Data Structures and A
 |  16    | [620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/)                                                                     | Easy       | Basic Aggregate Functions            | Leetcode |
 |  17    | [1251. Average Selling Price](https://leetcode.com/problems/average-selling-price/description/?envType=study-plan-v2&envId=top-sql-50)                                                                     | Easy       | Basic Aggregate Functions            | Leetcode |
 |  18    | [1075. Project Employees I](https://leetcode.com/problems/project-employees-i/description/?envType=study-plan-v2&envId=top-sql-50)                                                                     | Easy       | Basic Aggregate Function           | Leetcode |
-|  19    | [1211. Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/description/)                                                                     | Easy       | Basic Aggregate Functions            | Leetcode |
-|  20    | [596. Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/?envType=study-plan-v2&envId=top-sql-50)  | Easy       | Sorting and Grouping   | Leetcode |
-|  21    | [619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number/description/)         | Easy       | Sorting and Grouping            | Leetcode |
-|  22    | [610. Triangle Judgement](https://leetcode.com/problems/triangle-judgement/description/?envType=study-plan-v2&envId=top-sql-50)         | Easy       | Advanced Select and Joins | Leetcode |
-|  23    | [1484. Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)                                                                     | Easy       | Advanced String Functions / Regex / Clause           | Leetcode |
+|  19    | [1633. Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/?envType=study-plan-v2&envId=top-sql-50)                                                                     | Easy       | Basic Aggregate Functions           | Leetcode |
+|  20    | [1211. Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/description/)                                                                     | Easy       | Basic Aggregate Functions            | Leetcode |
+|  21    | [596. Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/?envType=study-plan-v2&envId=top-sql-50)  | Easy       | Sorting and Grouping   | Leetcode |
+|  22    | [619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number/description/)         | Easy       | Sorting and Grouping            | Leetcode |
+|  23    | [610. Triangle Judgement](https://leetcode.com/problems/triangle-judgement/description/?envType=study-plan-v2&envId=top-sql-50)         | Easy       | Advanced Select and Joins | Leetcode |
+|  24    | [1484. Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)                                                                     | Easy       | Advanced String Functions / Regex / Clause           | Leetcode |
 
 ---
