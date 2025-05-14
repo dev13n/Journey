@@ -45,7 +45,7 @@ This repository serves as a documentation of my journey in Data Structures and A
 |  31    | [1633. Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/?envType=study-plan-v2&envId=top-sql-50)                                                                     | Easy       | Basic Aggregate Functions           | Leetcode |
 |  32    | [1587. Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/description/)                                                                     | Easy       | SQL Query           | Leetcode |
 |  33    | [1193. Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/description/?envType=study-plan-v2&envId=top-sql-50)                                                                     | Medium       | Basic Aggregate Functions           | Leetcode |
-|  34    | [1693. Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/description/)                                                                     | Easy       | SQL Query           | Leetcode |
+|  34    | [1693. Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/description/)                                                                     | Easy       | Basic Aggregate Function           | Leetcode |
 
 ---
 
