@@ -46,7 +46,8 @@ This repository serves as a documentation of my journey in Data Structures and A
 |  32    | [1587. Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/description/)                                                                     | Easy       | SQL Query           | Leetcode |
 |  33    | [1193. Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/description/?envType=study-plan-v2&envId=top-sql-50)                                                                     | Medium       | Basic Aggregate Functions           | Leetcode |
 |  34    | [1693. Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/description/)                                                                     | Easy       | Basic Aggregate Function           | Leetcode |
-
+|  35    | [1174. Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/description/?envType=study-plan-v2&envId=top-sql-50)                                                                    | Medium       | Basic Aggregate Functions           | Leetcode |
+|  36    | [1741. Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/description/)                                                                    | Easy       | SQL Query           | Leetcode |
 ---
 
 ## SQL 50 Problem List
@@ -73,9 +74,10 @@ This repository serves as a documentation of my journey in Data Structures and A
 |  19    | [1633. Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/?envType=study-plan-v2&envId=top-sql-50)                                                                     | Easy       | Basic Aggregate Functions           | Leetcode |
 |  20    | [1211. Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/description/)                                                                     | Easy       | Basic Aggregate Functions            | Leetcode |
 |  21    | [1193. Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/description/?envType=study-plan-v2&envId=top-sql-50)                                                                     | Medium       | Basic Aggregate Functions           | Leetcode |
-|  22    | [596. Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/?envType=study-plan-v2&envId=top-sql-50)  | Easy       | Sorting and Grouping   | Leetcode |
-|  23    | [619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number/description/)         | Easy       | Sorting and Grouping            | Leetcode |
-|  24    | [610. Triangle Judgement](https://leetcode.com/problems/triangle-judgement/description/?envType=study-plan-v2&envId=top-sql-50)         | Easy       | Advanced Select and Joins | Leetcode |
-|  25    | [1484. Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)                                                                     | Easy       | Advanced String Functions / Regex / Clause           | Leetcode |
+|  22    | [1174. Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/description/?envType=study-plan-v2&envId=top-sql-50)                                                                    | Medium       | Basic Aggregate Functions           | Leetcode |
+|  23    | [596. Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/?envType=study-plan-v2&envId=top-sql-50)  | Easy       | Sorting and Grouping   | Leetcode |
+|  24    | [619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number/description/)         | Easy       | Sorting and Grouping            | Leetcode |
+|  26    | [610. Triangle Judgement](https://leetcode.com/problems/triangle-judgement/description/?envType=study-plan-v2&envId=top-sql-50)         | Easy       | Advanced Select and Joins | Leetcode |
+|  26    | [1484. Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)                                                                     | Easy       | Advanced String Functions / Regex / Clause           | Leetcode |
 
 ---
