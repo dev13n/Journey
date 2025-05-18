@@ -52,6 +52,8 @@ This repository serves as a documentation of my journey in Data Structures and A
 |  38    | [1873. Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/description/)                                                                    | Easy       | SQL Query           | Leetcode |
 |  39    | [2356. Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/game-play-analysis-iv/description/?envType=study-plan-v2&envId=top-sql-50)                                                                    | Easy       | Sorting and Grouping           | Leetcode |
 |  40    | [1890. The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/description/)                                                                    | Easy       | SQL Query           | Leetcode |
+|  41    | [1141. User Activity for the Past 30 Days](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/description/?envType=study-plan-v2&envId=top-sql-50)                                                                    | Easy       | Sorting and Grouping           | Leetcode |
+|  42    | [1965. Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/description/)                                                                    | Easy       | SQL Query           | Leetcode |
 
 ---
 
@@ -82,6 +84,7 @@ This repository serves as a documentation of my journey in Data Structures and A
 |  22    | [1174. Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/description/?envType=study-plan-v2&envId=top-sql-50)                                                                    | Medium       | Basic Aggregate Functions           | Leetcode |
 |  23    | [550. Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/description/?envType=study-plan-v2&envId=top-sql-50)                                                                    | Medium       | Basic Aggregate Functions           | Leetcode |
 |  24    | [2356. Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/game-play-analysis-iv/description/?envType=study-plan-v2&envId=top-sql-50)                                                                    | Easy       | Sorting and Grouping           | Leetcode |
+|  25    | [1141. User Activity for the Past 30 Days](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/description/?envType=study-plan-v2&envId=top-sql-50)                                                                    | Easy       | Sorting and Grouping           | Leetcode |
 |  25    | [596. Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/?envType=study-plan-v2&envId=top-sql-50)  | Easy       | Sorting and Grouping   | Leetcode |
 |  26    | [619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number/description/)         | Easy       | Sorting and Grouping            | Leetcode |
 |  27    | [610. Triangle Judgement](https://leetcode.com/problems/triangle-judgement/description/?envType=study-plan-v2&envId=top-sql-50)         | Easy       | Advanced Select and Joins | Leetcode |
