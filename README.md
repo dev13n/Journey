@@ -58,6 +58,9 @@ This repository serves as a documentation of my journey in Data Structures and A
 |  44    | [1393. Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/description/)                                                                    | Medium       | SQL Query           | Leetcode |
 |  45    | [1729. Find Followers Count](https://leetcode.com/problems/find-followers-count/description/?envType=study-plan-v2&envId=top-sql-50)                                                                    | Easy       | Basic Aggregate Functions           | Leetcode |
 |  46    | [1795. Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/description/)                                                                    | Easy       | Basic Aggregate Functions           | Leetcode |
+|  47    | [1045. Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/description/?envType=study-plan-v2&envId=top-sql-50)         | Medium       | Sorting and Grouping            | Leetcode |
+|  48    | [511. Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/description/)         | Easy       | SQL Query            | Leetcode |
+
 ---
 
 ## SQL 50 Problem List
@@ -92,6 +95,7 @@ This repository serves as a documentation of my journey in Data Structures and A
 |  27    | [1070. Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/description/?envType=study-plan-v2&envId=top-sql-50)                                                                    | Medium       | Sorting and Grouping           | Leetcode |
 |  28    | [596. Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/?envType=study-plan-v2&envId=top-sql-50)  | Easy       | Sorting and Grouping   | Leetcode |
 |  29    | [619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number/description/)         | Easy       | Sorting and Grouping            | Leetcode |
+|  30    | [1045. Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/description/?envType=study-plan-v2&envId=top-sql-50)         | Medium       | Sorting and Grouping            | Leetcode |
 |  30    | [610. Triangle Judgement](https://leetcode.com/problems/triangle-judgement/description/?envType=study-plan-v2&envId=top-sql-50)         | Easy       | Advanced Select and Joins | Leetcode |
 |  31    | [1484. Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)                                                                     | Easy       | Advanced String Functions / Regex / Clause           | Leetcode |
 
