@@ -64,8 +64,8 @@ This repository serves as a documentation of my journey in Data Structures and A
 |  50    | [1789. Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/description/?envType=study-plan-v2&envId=top-sql-50)         | Easy       | Advanced Select and Joins            | Leetcode |
 |  51    | [180. Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/description/?envType=study-plan-v2&envId=top-sql-50)         | Medium       | Advanced Select and Joins | Leetcode |
 |  52    | [1327. List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/description/)                                                                     | Easy       | Advanced String Functions / Regex / Clause           | Leetcode |
-
-
+|  53    | [1164. Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/description/?envType=study-plan-v2&envId=top-sql-50)         | Medium       | Advanced Select and Joins | Leetcode |
+|  54    | [607. Sales Person](https://leetcode.com/problems/sales-person/description/)         | Easy       | SQL Query | Leetcode |
 
 ---
 
@@ -106,7 +106,8 @@ This repository serves as a documentation of my journey in Data Structures and A
 |  32    | [1789. Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/description/?envType=study-plan-v2&envId=top-sql-50)         | Easy       | Advanced Select and Joins            | Leetcode |
 |  33    | [610. Triangle Judgement](https://leetcode.com/problems/triangle-judgement/description/?envType=study-plan-v2&envId=top-sql-50)         | Easy       | Advanced Select and Joins | Leetcode |
 |  34    | [180. Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/description/?envType=study-plan-v2&envId=top-sql-50)         | Medium       | Advanced Select and Joins | Leetcode |
-|  35    | [1484. Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)                                                                     | Easy       | Advanced String Functions / Regex / Clause           | Leetcode |
-|  36    | [1327. List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/description/)                                                                     | Easy       | Advanced String Functions / Regex / Clause           | Leetcode |
+|  35    | [1164. Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/description/?envType=study-plan-v2&envId=top-sql-50)         | Medium       | Advanced Select and Joins | Leetcode |
+|  36    | [1484. Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)                                                                     | Easy       | Advanced String Functions / Regex / Clause           | Leetcode |
+|  37    | [1327. List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/description/)                                                                     | Easy       | Advanced String Functions / Regex / Clause           | Leetcode |
 
 ---
