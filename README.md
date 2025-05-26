@@ -68,6 +68,8 @@ This repository serves as a documentation of my journey in Data Structures and A
 |  54    | [607. Sales Person](https://leetcode.com/problems/sales-person/description/)         | Easy       | SQL Query | Leetcode |
 |  55    | [1204. Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/description/?envType=study-plan-v2&envId=top-sql-50)         | Medium       | Advanced Select and Joins | Leetcode |
 |  56    | [608. Tree Node](https://leetcode.com/problems/tree-node/description/)         | SQL Query       | Advanced Select and Joins | Leetcode |
+|  57    | [1907. Count Salary Categories](https://leetcode.com/problems/count-salary-categories/description/?envType=study-plan-v2&envId=top-sql-50)         | Medium       | Advanced Select and Joins | Leetcode |
+|  58    | [1321. Restaurant Growth](https://leetcode.com/problems/restaurant-growth/description/)         | Medium       | Subqueries | Leetcode |
 
 ---
 
@@ -110,7 +112,9 @@ This repository serves as a documentation of my journey in Data Structures and A
 |  34    | [180. Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/description/?envType=study-plan-v2&envId=top-sql-50)         | Medium       | Advanced Select and Joins | Leetcode |
 |  35    | [1164. Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/description/?envType=study-plan-v2&envId=top-sql-50)         | Medium       | Advanced Select and Joins | Leetcode |
 |  36    | [1204. Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/description/?envType=study-plan-v2&envId=top-sql-50)         | Medium       | Advanced Select and Joins | Leetcode |
-|  37    | [1484. Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)                                                                     | Easy       | Advanced String Functions / Regex / Clause           | Leetcode |
-|  38    | [1327. List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/description/)                                                                     | Easy       | Advanced String Functions / Regex / Clause           | Leetcode |
+|  37    | [1907. Count Salary Categories](https://leetcode.com/problems/count-salary-categories/description/?envType=study-plan-v2&envId=top-sql-50)         | Medium       | Advanced Select and Joins | Leetcode |
+|  38    | [1321. Restaurant Growth](https://leetcode.com/problems/restaurant-growth/description/)         | Medium       | Subqueries | Leetcode |
+|  39    | [1484. Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)                                                                     | Easy       | Advanced String Functions / Regex / Clause           | Leetcode |
+|  40    | [1327. List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/description/)                                                                     | Easy       | Advanced String Functions / Regex / Clause           | Leetcode |
 
 ---
