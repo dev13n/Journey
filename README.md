@@ -72,6 +72,8 @@ This repository serves as a documentation of my journey in Data Structures and A
 |  58    | [1321. Restaurant Growth](https://leetcode.com/problems/restaurant-growth/description/)         | Medium       | Subqueries | Leetcode |
 |  59    | [1978. Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/description/?envType=study-plan-v2&envId=top-sql-50)         | Easy       | Subqueries | Leetcode |
 |  60    | [626. Exchange Seats](https://leetcode.com/problems/exchange-seats/description/)         | Medium       | Subqueries | Leetcode |
+|  61    | [1341. Movie Rating](https://leetcode.com/problems/movie-rating/description/?envType=study-plan-v2&envId=top-sql-50)         | Medium       | Subqueries | Leetcode |
+|  62    | [1158. Market Analysis I](https://leetcode.com/problems/market-analysis-i/description/)         | Medium       | SQL Queries | Leetcode |
 
 ---
 
@@ -117,8 +119,9 @@ This repository serves as a documentation of my journey in Data Structures and A
 |  37    | [1907. Count Salary Categories](https://leetcode.com/problems/count-salary-categories/description/?envType=study-plan-v2&envId=top-sql-50)         | Medium       | Advanced Select and Joins | Leetcode |
 |  38    | [1978. Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/description/?envType=study-plan-v2&envId=top-sql-50)         | Easy       | Subqueries | Leetcode |
 |  39    | [626. Exchange Seats](https://leetcode.com/problems/exchange-seats/description/)         | Medium       | Subqueries | Leetcode |
-|  40    | [1321. Restaurant Growth](https://leetcode.com/problems/restaurant-growth/description/)         | Medium       | Subqueries | Leetcode |
-|  41    | [1484. Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)                                                                     | Easy       | Advanced String Functions / Regex / Clause           | Leetcode |
-|  42    | [1327. List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/description/)                                                                     | Easy       | Advanced String Functions / Regex / Clause           | Leetcode |
+|  40    | [1341. Movie Rating](https://leetcode.com/problems/movie-rating/description/?envType=study-plan-v2&envId=top-sql-50)         | Medium       | Subqueries | Leetcode |
+|  41    | [1321. Restaurant Growth](https://leetcode.com/problems/restaurant-growth/description/)         | Medium       | Subqueries | Leetcode |
+|  42    | [1484. Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)                                                                     | Easy       | Advanced String Functions / Regex / Clause           | Leetcode |
+|  43    | [1327. List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/description/)                                                                     | Easy       | Advanced String Functions / Regex / Clause           | Leetcode |
 
 ---
