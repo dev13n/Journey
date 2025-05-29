@@ -74,6 +74,8 @@ This repository serves as a documentation of my journey in Data Structures and A
 |  60    | [626. Exchange Seats](https://leetcode.com/problems/exchange-seats/description/)         | Medium       | Subqueries | Leetcode |
 |  61    | [1341. Movie Rating](https://leetcode.com/problems/movie-rating/description/?envType=study-plan-v2&envId=top-sql-50)         | Medium       | Subqueries | Leetcode |
 |  62    | [1158. Market Analysis I](https://leetcode.com/problems/market-analysis-i/description/)         | Medium       | SQL Queries | Leetcode |
+|  63    | [602. Friend Requests II: Who Has the Most Friends ](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/description/?envType=study-plan-v2&envId=top-sql-50)         | Medium       | Subqueries | Leetcode |
+|  64    | [1667. Fix Names in a Table ](https://leetcode.com/problems/fix-names-in-a-table/description/)         | Easy       | Advanced String Functions / Regex / Clause | Leetcode |
 
 ---
 
@@ -121,7 +123,9 @@ This repository serves as a documentation of my journey in Data Structures and A
 |  39    | [626. Exchange Seats](https://leetcode.com/problems/exchange-seats/description/)         | Medium       | Subqueries | Leetcode |
 |  40    | [1341. Movie Rating](https://leetcode.com/problems/movie-rating/description/?envType=study-plan-v2&envId=top-sql-50)         | Medium       | Subqueries | Leetcode |
 |  41    | [1321. Restaurant Growth](https://leetcode.com/problems/restaurant-growth/description/)         | Medium       | Subqueries | Leetcode |
-|  42    | [1484. Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)                                                                     | Easy       | Advanced String Functions / Regex / Clause           | Leetcode |
-|  43    | [1327. List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/description/)                                                                     | Easy       | Advanced String Functions / Regex / Clause           | Leetcode |
+|  42    | [602. Friend Requests II: Who Has the Most Friends ](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/description/?envType=study-plan-v2&envId=top-sql-50)         | Medium       | Subqueries | Leetcode |
+|  43    | [1667. Fix Names in a Table ](https://leetcode.com/problems/fix-names-in-a-table/description/)         | Easy       | Advanced String Functions / Regex / Clause | Leetcode |
+|  44    | [1484. Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)                                                                     | Easy       | Advanced String Functions / Regex / Clause           | Leetcode |
+|  45    | [1327. List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/description/)                                                                     | Easy       | Advanced String Functions / Regex / Clause           | Leetcode |
 
 ---
