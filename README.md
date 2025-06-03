@@ -1,4 +1,4 @@
-# Journey
+[# Journey
 
 This repository serves as a documentation of my journey in Data Structures and Algorithms (DSA), as well as my exploration of coding in Python and SQL. It reflects my personal interests and provides a way to track my progress over time.
 
@@ -84,6 +84,9 @@ This repository serves as a documentation of my journey in Data Structures and A
 |  70    | [1517. Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/description/)                                               | Easy       | Advanced String Functions / Regex / Clause           | Leetcode|
 |  71    | [196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/?envType=study-plan-v2&envId=top-sql-50)         | Easy       | Advanced String Functions / Regex / Clause | Leetcode |
 |  72    | [1084. Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/description/)         | Easy       | SQL Query | Leetcode |
+|  73    | [177. Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/description/)         | Medium       | SQL Query | Leetcode |
+|  74    | [184. Department Highest Salary](https://leetcode.com/problems/department-highest-salary/description/)         | Medium       | SQL Query | Leetcode |
+
 
 ---
 
@@ -142,4 +145,4 @@ This repository serves as a documentation of my journey in Data Structures and A
 |  49    | [1327. List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/description/)                                                                     | Easy       | Advanced String Functions / Regex / Clause           | Leetcode |
 |  50    | [1517. Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/description/)                                               | Easy       | Advanced String Functions / Regex / Clause           | Leetcode|
 
---- 
+--- ](https://leetcode.com/problems/department-highest-salary/description/)
