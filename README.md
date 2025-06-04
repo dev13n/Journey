@@ -86,7 +86,8 @@ This repository serves as a documentation of my journey in Data Structures and A
 |  72    | [1084. Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/description/)         | Easy       | SQL Query | Leetcode |
 |  73    | [177. Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/description/)         | Medium       | SQL Query | Leetcode |
 |  74    | [184. Department Highest Salary](https://leetcode.com/problems/department-highest-salary/description/)         | Medium       | SQL Query | Leetcode |
-
+|  75    | [1179. Reformat Department Table](https://leetcode.com/problems/reformat-department-table/description/)         | Easy       | SQL Query | Leetcode |
+|  76    | [3220. Odd and Even Transactions](https://leetcode.com/problems/odd-and-even-transactions/description/)         | Medium       | SQL Query | Leetcode |
 
 ---
 
