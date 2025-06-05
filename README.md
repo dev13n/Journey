@@ -1,4 +1,4 @@
-[# Journey
+# Journey
 
 This repository serves as a documentation of my journey in Data Structures and Algorithms (DSA), as well as my exploration of coding in Python and SQL. It reflects my personal interests and provides a way to track my progress over time.
 
@@ -88,6 +88,8 @@ This repository serves as a documentation of my journey in Data Structures and A
 |  74    | [184. Department Highest Salary](https://leetcode.com/problems/department-highest-salary/description/)         | Medium       | SQL Query | Leetcode |
 |  75    | [1179. Reformat Department Table](https://leetcode.com/problems/reformat-department-table/description/)         | Easy       | SQL Query | Leetcode |
 |  76    | [3220. Odd and Even Transactions](https://leetcode.com/problems/odd-and-even-transactions/description/)         | Medium       | SQL Query | Leetcode |
+|  75    | [262. Trips and Users](https://leetcode.com/problems/trips-and-users/description/)         | Hard       | SQL Query | Leetcode |
+|  76    | [601. Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/description/)         | Hard       | SQL Query | Leetcode |
 
 ---
 
@@ -146,4 +148,4 @@ This repository serves as a documentation of my journey in Data Structures and A
 |  49    | [1327. List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/description/)                                                                     | Easy       | Advanced String Functions / Regex / Clause           | Leetcode |
 |  50    | [1517. Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/description/)                                               | Easy       | Advanced String Functions / Regex / Clause           | Leetcode|
 
---- ](https://leetcode.com/problems/department-highest-salary/description/)
+--- 
