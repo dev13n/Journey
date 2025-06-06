@@ -90,6 +90,9 @@ This repository serves as a documentation of my journey in Data Structures and A
 |  76    | [3220. Odd and Even Transactions](https://leetcode.com/problems/odd-and-even-transactions/description/)         | Medium       | SQL Query | Leetcode |
 |  75    | [262. Trips and Users](https://leetcode.com/problems/trips-and-users/description/)         | Hard       | SQL Query | Leetcode |
 |  76    | [601. Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/description/)         | Hard       | SQL Query | Leetcode |
+|  77    | [3421. Find Students Who Improved](https://leetcode.com/problems/find-students-who-improved/description/)         | Medium       | SQL Query | Leetcode |
+|  78    | [3436. Find Valid Emails](https://leetcode.com/problems/find-valid-emails/description/)         | Easy       | SQL Query | Leetcode |
+
 
 ---
 
