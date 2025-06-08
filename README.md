@@ -94,7 +94,8 @@ This repository serves as a documentation of my journey in Data Structures and A
 |  80    | [3436. Find Valid Emails](https://leetcode.com/problems/find-valid-emails/description/)         | Easy       | SQL Query | Leetcode |
 |  81    | [3475. DNA Pattern Recognition ](https://leetcode.com/problems/dna-pattern-recognition/description/)         | Medium       | SQL Query | Leetcode |
 |  82    | [3465. Find Products with Valid Serial Numbers](https://leetcode.com/problems/find-products-with-valid-serial-numbers/description/)         | Easy       | SQL Query | Leetcode |
-
+|  83    | [3497. Analyze Subscription Conversion](https://leetcode.com/problems/analyze-subscription-conversion/description/)         | Medium       | SQL Query | Leetcode |
+|  84    | [3521. Find Product Recommendation Pairs](https://leetcode.com/problems/find-product-recommendation-pairs/description/)         | Medium       | SQL Query | Leetcode |
 
 
 ---
