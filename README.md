@@ -5,6 +5,7 @@ This repository serves as a documentation of my journey in Data Structures and A
 ## Table of Contents
 1. [SQL Problem List](#sql-problem-list)
 2. [SQL 50 Problem List](#sql-50-problem-list)
+3. [Pandas Problem List](#pandas-problem-list)
 
 ---
 
@@ -156,3 +157,12 @@ This repository serves as a documentation of my journey in Data Structures and A
 |  50    | [1517. Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/description/)                                               | Easy       | Advanced String Functions / Regex / Clause           | Leetcode|
 
 --- 
+
+## Pandas Problem List
+
+| Number | Problem                                                                                                                                   | Difficulty | Topic                   | Platform |
+|:------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|:----------:|:-----------------------:|:--------:|
+|   1    | [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)                                   | Easy       | Pandas Select           | Leetcode |
+|   2    | [2877. Create a DataFrame from List](https://leetcode.com/problems/create-a-dataframe-from-list/description/)                             | Easy       | Pandas                  | Leetcode |
+
+---
