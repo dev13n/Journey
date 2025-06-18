@@ -166,6 +166,7 @@ This repository serves as a documentation of my journey in Data Structures and A
 |   2    | [2877. Create a DataFrame from List](https://leetcode.com/problems/create-a-dataframe-from-list/description/)                             | Easy       | Pandas                  | Leetcode |
 |   3    | [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50)     | Easy       | Pandas Select           | Leetcode |
 |   4    | [2878. Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/description/)                               | Easy       | Pandas                  | Leetcode |
-
+|   5    | [595. Big Countries](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50)                     | Easy       | Pandas Select           | Leetcode |
+|   6    | [2879. Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/description/)                             | Easy       | Pandas                  | Leetcode |
 
 ---
