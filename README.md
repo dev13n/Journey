@@ -170,5 +170,7 @@ This repository serves as a documentation of my journey in Data Structures and A
 |   6    | [2879. Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/description/)                             | Easy       | Pandas                  | Leetcode |
 |   7    | [1148. Article Views I](https://leetcode.com/problems/article-views-i/description/?envType=study-plan-v2&envId=top-sql-50)                | Easy       | Pandas Select           | Leetcode |
 |   8    | [2880. Select Data](https://leetcode.com/problems/select-data/description/)                                                               | Easy       | Pandas                  | Leetcode |
+|   9    | [1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50)                  | Easy       | Pandas Select           | Leetcode |
+|   10   | [2881. Create a New Column](https://leetcode.com/problems/create-a-new-column/description/)                                               | Easy       | Pandas                  | Leetcode |
 
 ---
