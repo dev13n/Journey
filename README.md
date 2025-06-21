@@ -160,17 +160,19 @@ This repository serves as a documentation of my journey in Data Structures and A
 
 ## Pandas Problem List
 
-| Number | Problem                                                                                                                                   | Difficulty | Topic                   | Platform |
-|:------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|:----------:|:-----------------------:|:--------:|
-|   1    | [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)                                   | Easy       | Pandas Select           | Leetcode |
-|   2    | [2877. Create a DataFrame from List](https://leetcode.com/problems/create-a-dataframe-from-list/description/)                             | Easy       | Pandas                  | Leetcode |
-|   3    | [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50)     | Easy       | Pandas Select           | Leetcode |
-|   4    | [2878. Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/description/)                               | Easy       | Pandas                  | Leetcode |
-|   5    | [595. Big Countries](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50)                     | Easy       | Pandas Select           | Leetcode |
-|   6    | [2879. Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/description/)                             | Easy       | Pandas                  | Leetcode |
-|   7    | [1148. Article Views I](https://leetcode.com/problems/article-views-i/description/?envType=study-plan-v2&envId=top-sql-50)                | Easy       | Pandas Select           | Leetcode |
-|   8    | [2880. Select Data](https://leetcode.com/problems/select-data/description/)                                                               | Easy       | Pandas                  | Leetcode |
-|   9    | [1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50)                  | Easy       | Pandas Select           | Leetcode |
-|   10   | [2881. Create a New Column](https://leetcode.com/problems/create-a-new-column/description/)                                               | Easy       | Pandas                  | Leetcode |
+| Number | Problem                                                                                                                                                                                                   | Difficulty | Topic                   | Platform |
+|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------:|:-----------------------:|:--------:|
+|   1    | [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)                                                                                                   | Easy       | Pandas Select           | Leetcode |
+|   2    | [2877. Create a DataFrame from List](https://leetcode.com/problems/create-a-dataframe-from-list/description/)                                                                                             | Easy       | Pandas                  | Leetcode |
+|   3    | [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50)                                                                     | Easy       | Pandas Select           | Leetcode |
+|   4    | [2878. Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/description/)                                                                                               | Easy       | Pandas                  | Leetcode |
+|   5    | [595. Big Countries](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50)                                                                                     | Easy       | Pandas Select           | Leetcode |
+|   6    | [2879. Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/description/)                                                                                             | Easy       | Pandas                  | Leetcode |
+|   7    | [1148. Article Views I](https://leetcode.com/problems/article-views-i/description/?envType=study-plan-v2&envId=top-sql-50)                                                                                | Easy       | Pandas Select           | Leetcode |
+|   8    | [2880. Select Data](https://leetcode.com/problems/select-data/description/)                                                                                                                               | Easy       | Pandas                  | Leetcode |
+|   9    | [1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50)                                                                                  | Easy       | Pandas Select           | Leetcode |
+|   10   | [2881. Create a New Column](https://leetcode.com/problems/create-a-new-column/description/)                                                                                                               | Easy       | Pandas                  | Leetcode |
+|   11   | [1378. Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/?envType=study-plan-v2&envId=top-sql-50)                  | Easy       | Pandas Select           | Leetcode |
+|   12   | [2882. Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows/description/)                                                                                                               | Easy       | Pandas                  | Leetcode |
 
 ---
