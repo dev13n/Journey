@@ -178,5 +178,7 @@ This repository serves as a documentation of my journey in Data Structures and A
 |   14   | [2883. Drop Missing Data](https://leetcode.com/problems/drop-missing-data/description/)                                                                                                                   | Easy       | Data Cleaning           | Leetcode |
 |   15   | [1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description/?envType=study-plan-v2&envId=top-sql-50)  | Easy       | Pandas Joins            | Leetcode |
 |   16   | [2884. Modify Columns](https://leetcode.com/problems/modify-columns/description/)                                                                                                                         | Easy       | Data Cleaning           | Leetcode |
+|   17   | [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/description/?envType=study-plan-v2&envId=top-sql-50)                                                                           | Easy       | Pandas Joins            | Leetcode |
+|   18   | [2885. Rename Columns](https://leetcode.com/problems/rename-columns/description/)                                                                                                                         | Easy       | Data Cleaning           | Leetcode |
 
 ---
