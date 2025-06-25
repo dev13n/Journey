@@ -180,5 +180,7 @@ This repository serves as a documentation of my journey in Data Structures and A
 |   16   | [2884. Modify Columns](https://leetcode.com/problems/modify-columns/description/)                                                                                                                         | Easy       | Data Cleaning           | Leetcode |
 |   17   | [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/description/?envType=study-plan-v2&envId=top-sql-50)                                                                           | Easy       | Pandas Joins            | Leetcode |
 |   18   | [2885. Rename Columns](https://leetcode.com/problems/rename-columns/description/)                                                                                                                         | Easy       | Data Cleaning           | Leetcode |
+|   19   | [1661. Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/description/?envType=study-plan-v2&envId=top-sql-50)                                        | Easy       | Pandas Joins            | Leetcode |
+|   20   | [2886. Change Data Type](https://leetcode.com/problems/change-data-type/description/)                                                                                                                     | Easy       | Data Cleaning           | Leetcode |
 
 ---
