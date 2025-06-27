@@ -184,5 +184,7 @@ This repository serves as a documentation of my journey in Data Structures and A
 |   20   | [2886. Change Data Type](https://leetcode.com/problems/change-data-type/description/)                                                                                                                     | Easy       | Data Cleaning           | Leetcode |
 |   21   | [577. Employee Bonus](https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50)                                                                                   | Easy       | Pandas Joins            | Leetcode |
 |   22   | [2887. Fill Missing Data](https://leetcode.com/problems/fill-missing-data/description/)                                                                                                                   | Easy       | Data Cleaning           | Leetcode |
+|   23   | [1280. Students and Examinations](https://leetcode.com/problems/students-and-examinations/description/?envType=study-plan-v2&envId=top-sql-50)                                                            | Easy       | Pandas Joins            | Leetcode |
+|   24   | [2888. Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/description/)                                                                                                    | Easy       | Data Cleaning           | Leetcode |
 
 ---
