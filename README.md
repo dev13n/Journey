@@ -185,6 +185,8 @@ This repository serves as a documentation of my journey in Data Structures and A
 |   21   | [577. Employee Bonus](https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50)                                                                                   | Easy       | Pandas Joins            | Leetcode |
 |   22   | [2887. Fill Missing Data](https://leetcode.com/problems/fill-missing-data/description/)                                                                                                                   | Easy       | Data Cleaning           | Leetcode |
 |   23   | [1280. Students and Examinations](https://leetcode.com/problems/students-and-examinations/description/?envType=study-plan-v2&envId=top-sql-50)                                                            | Easy       | Pandas Joins            | Leetcode |
-|   24   | [2888. Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/description/)                                                                                                    | Easy       | Data Cleaning           | Leetcode |
+|   24   | [2888. Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/description/)                                                                                                    | Easy       | Table Reshaping         | Leetcode |
+|   25   | [570. Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/description/?envType=study-plan-v2&envId=top-sql-50)                                 | Medium     | Pandas Joins            | Leetcode |
+|   26   | [2889. Reshape Data: Pivot](https://leetcode.com/problems/reshape-data-pivot/description/)                                                                                                                | Easy       | Table Reshaping         | Leetcode |
 
 ---
