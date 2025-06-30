@@ -188,5 +188,7 @@ This repository serves as a documentation of my journey in Data Structures and A
 |   24   | [2888. Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/description/)                                                                                                    | Easy       | Table Reshaping         | Leetcode |
 |   25   | [570. Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/description/?envType=study-plan-v2&envId=top-sql-50)                                 | Medium     | Pandas Joins            | Leetcode |
 |   26   | [2889. Reshape Data: Pivot](https://leetcode.com/problems/reshape-data-pivot/description/)                                                                                                                | Easy       | Table Reshaping         | Leetcode |
+|   27   | [1934. Confirmation Rate](https://leetcode.com/problems/confirmation-rate/description/?envType=study-plan-v2&envId=top-sql-50)                                                                            | Medium     | Pandas Joins            | Leetcode |
+|   28   | [2890. Reshape Data: Melt](https://leetcode.com/problems/reshape-data-melt/description/)                                                                                                                  | Easy       | Table Reshaping         | Leetcode |
 
 ---
