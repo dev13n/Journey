@@ -192,5 +192,6 @@ This repository serves as a documentation of my journey in Data Structures and A
 |   28   | [2890. Reshape Data: Melt](https://leetcode.com/problems/reshape-data-melt/description/)                                                                                                                  | Easy       | Table Reshaping         | Leetcode |
 |   29   | [620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/?envType=study-plan-v2&envId=top-sql-50)                                                                             | Easy       | Pandas Aggregate Func   | Leetcode |
 |   30   | [2891. Method Chaining](https://leetcode.com/problems/method-chaining/description/)                                                                                                                       | Easy       | Advanced Technique      | Leetcode |
+|   31   | [1251. Average Selling Price](https://leetcode.com/problems/average-selling-price/description/?envType=study-plan-v2&envId=top-sql-50)                                                                    | Easy       | Pandas Aggregate Func   | Leetcode |
 
 ---
