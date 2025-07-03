@@ -3,11 +3,17 @@
 This repository serves as a documentation of my journey in Data Structures and Algorithms (DSA), as well as my exploration of coding in Python and SQL. It reflects my personal interests and provides a way to track my progress over time.
 
 ## Table of Contents
+1. [Python](#python)
 1. [SQL Problem List](#sql-problem-list)
 2. [SQL 50 Problem List](#sql-50-problem-list)
 3. [Pandas Problem List](#pandas-problem-list)
 
 ---
+
+## Python
+| Number | Problem                                                                                                                                                                                                   | Difficulty | Topic                   | Platform |
+|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------:|:-----------------------:|:--------:|
+|   1    | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/               )                                                                                                   | Easy       | Array                   | Leetcode |
 
 ## SQL Problem List
 
