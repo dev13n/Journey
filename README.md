@@ -14,6 +14,7 @@ This repository serves as a documentation of my journey in Data Structures and A
 | Number | Problem                                                                                                                                                                                                   | Difficulty | Topic                   | Platform |
 |:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------:|:-----------------------:|:--------:|
 |   1    | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/               )                                                                                                   | Easy       | Array                   | Leetcode |
+|   2    | [268. Missing Number](https://leetcode.com/problems/missing-number/description/)                                                                                                                          | Easy       | Array                   | Leetcode |
 
 ## SQL Problem List
 
@@ -200,5 +201,6 @@ This repository serves as a documentation of my journey in Data Structures and A
 |   30   | [2891. Method Chaining](https://leetcode.com/problems/method-chaining/description/)                                                                                                                       | Easy       | Advanced Technique      | Leetcode |
 |   31   | [1251. Average Selling Price](https://leetcode.com/problems/average-selling-price/description/?envType=study-plan-v2&envId=top-sql-50)                                                                    | Easy       | Pandas Aggregate Func   | Leetcode |
 |   32   | [1075. Project Employees I](https://leetcode.com/problems/project-employees-i/description/?envType=study-plan-v2&envId=top-sql-50)                                                                        | Easy       | Pandas Aggregate Func   | Leetcode |
+|   33   | [1633. Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/?envType=study-plan-v2&envId=top-sql-50)                                  | Easy       | Pandas Aggregate Func   | Leetcode |
 
 ---
