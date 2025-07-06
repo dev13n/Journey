@@ -16,6 +16,7 @@ This repository serves as a documentation of my journey in Data Structures and A
 |   1    | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/               )                                                                                                   | Easy       | Array                   | Leetcode |
 |   2    | [268. Missing Number](https://leetcode.com/problems/missing-number/description/)                                                                                                                          | Easy       | Array                   | Leetcode |
 |   3    | [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)                                                                      | Easy       | Array                   | Leetcode |
+|   4    | [1. Two Sum](https://leetcode.com/problems/two-sum/description/)                                                                                                                                          | Easy       | Array                   | Leetcode |
 
 ## SQL Problem List
 
@@ -203,5 +204,6 @@ This repository serves as a documentation of my journey in Data Structures and A
 |   31   | [1251. Average Selling Price](https://leetcode.com/problems/average-selling-price/description/?envType=study-plan-v2&envId=top-sql-50)                                                                    | Easy       | Pandas Aggregate Func   | Leetcode |
 |   32   | [1075. Project Employees I](https://leetcode.com/problems/project-employees-i/description/?envType=study-plan-v2&envId=top-sql-50)                                                                        | Easy       | Pandas Aggregate Func   | Leetcode |
 |   33   | [1633. Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/?envType=study-plan-v2&envId=top-sql-50)                                  | Easy       | Pandas Aggregate Func   | Leetcode |
-|   34   | [1211. Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/description/?envType=study-plan-v2&envId=top-sql-50) 
+|   34   | [1211. Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/description/?envType=study-plan-v2&envId=top-sql-50)                                                  | Easy       | Pandas Aggregate Func   | Leetcode |
+|   35   | [1193. Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/description/?envType=study-plan-v2&envId=top-sql-50)                                                                  | Medium     | Pandas Aggregate Func   | Leetcode |
 ---
