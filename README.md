@@ -18,7 +18,7 @@ This repository serves as a documentation of my journey in Data Structures and A
 |   3    | [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)                                                                      | Easy       | Array                   | Leetcode |
 |   4    | [1. Two Sum](https://leetcode.com/problems/two-sum/description/)                                                                                                                                          | Easy       | Array                   | Leetcode |
 |   5    | [1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/description/)                                                                                     | Easy       | Array                   | Leetcode |
-|   6    | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)                                                                                                                             | Easy       | Array                   | Leetcode |
+|   6    | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)                                                                                                                             | Medium     | Array                   | Leetcode |
 
 ## SQL Problem List
 
