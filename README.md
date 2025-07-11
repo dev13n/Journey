@@ -21,6 +21,7 @@ This repository serves as a documentation of my journey in Data Structures and A
 |   6    | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)                                                                                                                             | Medium     | Array                   | Leetcode |
 |   7    | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/description/)                                                                                                                    | Medium     | Array                   | Leetcode |
 |   8    | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)                                                                                        | Easy       | Array Two Pointer       | Leetcode |
+|   9    | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)                                                                                                    | Easy       | Array Two Pointer       | Leetcode |
 
 ## SQL Problem List
 
@@ -214,5 +215,6 @@ This repository serves as a documentation of my journey in Data Structures and A
 |   37   | [550. Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/description/?envType=study-plan-v2&envId=top-sql-50)                                                                     | Medium     | Pandas Aggregate Func         | Leetcode |
 |   38   | [2356. Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/?envType=study-plan-v2&envId=top-sql-50)              | Easy       | Pandas Sorting and Grouping   | Leetcode |
 |   39   | [1141. User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/description/?envType=study-plan-v2&envId=top-sql-50)                                      | Easy       | Pandas Sorting and Grouping   | Leetcode |
+|   40   | [1070. Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/description/)                                                                                                 | Medium     | Pandas Sorting and Grouping   | Leetcode |
 
 ---
