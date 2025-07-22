@@ -23,6 +23,7 @@ This repository serves as a documentation of my journey in Data Structures and A
 |   8    | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)                                                                                        | Easy       | Array Two Pointer       | Leetcode |
 |   9    | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)                                                                                                    | Easy       | Array Two Pointer       | Leetcode |
 |   10   | [15. 3Sum](https://leetcode.com/problems/3sum/description/)                                                                                                                                               | Medium     | Array Two Pointer       | Leetcode |
+|   11   | [845. Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/description/)                                                                                                    | Medium     | Array Two Pointer       | Leetcode |
 
 ## SQL Problem List
 
@@ -218,5 +219,6 @@ This repository serves as a documentation of my journey in Data Structures and A
 |   39   | [1141. User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/description/?envType=study-plan-v2&envId=top-sql-50)                                      | Easy       | Pandas Sorting and Grouping   | Leetcode |
 |   40   | [1070. Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/description/)                                                                                                 | Medium     | Pandas Sorting and Grouping   | Leetcode |
 |   41   | [596. Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/description/?envType=study-plan-v2&envId=top-sql-50)                                               | Easy       | Pandas Sorting and Grouping   | Leetcode |
+|   42   | [1729. Find Followers Count](https://leetcode.com/problems/find-followers-count/description/?envType=study-plan-v2&envId=top-sql-50)                                                                      | Easy       | Pandas Sorting and Grouping   | Leetcode |
 
 ---
