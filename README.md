@@ -24,6 +24,7 @@ This repository serves as a documentation of my journey in Data Structures and A
 |   9    | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)                                                                                                    | Easy       | Array Two Pointer       | Leetcode |
 |   10   | [15. 3Sum](https://leetcode.com/problems/3sum/description/)                                                                                                                                               | Medium     | Array Two Pointer       | Leetcode |
 |   11   | [845. Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/description/)                                                                                                    | Medium     | Array Two Pointer       | Leetcode |
+|   12   | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)                                                                                                            | Easy       | Sliding Window          | Leetcode |
 
 ## SQL Problem List
 
@@ -220,5 +221,6 @@ This repository serves as a documentation of my journey in Data Structures and A
 |   40   | [1070. Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/description/)                                                                                                 | Medium     | Pandas Sorting and Grouping   | Leetcode |
 |   41   | [596. Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/description/?envType=study-plan-v2&envId=top-sql-50)                                               | Easy       | Pandas Sorting and Grouping   | Leetcode |
 |   42   | [1729. Find Followers Count](https://leetcode.com/problems/find-followers-count/description/?envType=study-plan-v2&envId=top-sql-50)                                                                      | Easy       | Pandas Sorting and Grouping   | Leetcode |
+|   43   | [619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number/description/?envType=study-plan-v2&envId=top-sql-50)                                                                     | Easy       | Pandas Sorting and Grouping   | Leetcode |
 
 ---
